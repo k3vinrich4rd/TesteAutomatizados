@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import trabalhandoComTestesAutomatizados.model.Funcionario;
 import trabalhandoComTestesAutomatizados.model.calculhotrabalhista.BonificacaoFuncionario;
-import trabalhandoComTestesAutomatizados.model.enumerics.DesempenhoFuncionario;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
